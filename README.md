@@ -12,6 +12,8 @@ http://theglovesproject.com/intro/
 Arduino sources:
 https://github.com/SebMadgwick/ArduIMU-Gloves
 
+http://www.imogenheap.co.uk/thegloves/
+
 People: 
 uk.linkedin.com/in/sebmadgwick
 
